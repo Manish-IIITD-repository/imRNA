@@ -1,6 +1,6 @@
-# IMORNpred: Prediction of Immunomodulatory Potential of RNA Sequences
+# imrnapred: Prediction of Immunomodulatory Potential of RNA Sequences
 
-Welcome to the official documentation for **IMORNpred**, a computational method developed for predicting the immunomodulatory potential of single-stranded RNA (ssRNA) sequences. This tool is designed to assist researchers in designing non-toxic siRNAs and potent RNA-based vaccine adjuvants by identifying whether an RNA sequence will activate or evade the innate immune system.
+Welcome to the official documentation for **imrnapred**, a computational method developed for predicting the immunomodulatory potential of single-stranded RNA (ssRNA) sequences. This tool is designed to assist researchers in designing non-toxic siRNAs and potent RNA-based vaccine adjuvants by identifying whether an RNA sequence will activate or evade the innate immune system.
 
 **Web Server:** [http://crdd.osdd.net/raghava/imornpred/](http://crdd.osdd.net/raghava/imornpred/)(https://webs.iiitd.edu.in/raghava/imrna)
 
