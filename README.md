@@ -11,6 +11,7 @@ Welcome to the official documentation for **IMORNpred**, a computational method 
 Chaudhary, K., Nagpal, G., Dhanda, S. K., & Raghava, G. P. S. (2016). 
 **Prediction of Immunomodulatory potential of an RNA sequence for designing non-toxic siRNAs and RNA-based vaccine adjuvants.** *Scientific Reports*, 6, 20678. 
 [https://doi.org/10.1038/srep20678](https://doi.org/10.1038/srep20678)
+Zenodo:-(https://doi.org/10.5281/zenodo.20097346)
 
 ---
 
